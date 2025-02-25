@@ -11,6 +11,7 @@ This code implements a feature selection and classification pipeline for analyzi
 - **Cross-Validation**: Offers both k-fold cross-validation and leave-one-out cross-validation (LOOCV).
 - **Metrics Calculation**: Computes accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and area under the ROC curve (AUC).
 - **Visualization**: Generates ROC curves and feature size performance maps.
+- **Permutation_Test**: For permutation test.
   
   ## Dependencies
   
