@@ -44,4 +44,4 @@ This code implements a feature selection and classification pipeline for analyzi
 
 
 
-`python main.py  --data_path ./data.mat  --co_path ./matrix.mat  --o chinese --c 0 --s 50 --model svm --cv 5`
+`python main.py  --data_path reading+work/allmatrix.mat --o chinese --c 2 --s 66 --co_path "chinese_R.mat"`
